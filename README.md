@@ -10,4 +10,8 @@ This repository contains my DevOps and Automation learning journey.
 - Power Apps
 - Power BI
 
+## 🌟 Learning Notes
+This section will contain weekly learnings, challenges, and progress updates.
+
+
 
